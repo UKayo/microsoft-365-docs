@@ -3987,16 +3987,14 @@ Local call charges apply.
 
 **Billing support hours:**\
 Japanese: Monday through Friday, 9:00-17:00\
-(Closed on weekends and public holidays)\
-English: Monday through Friday, 9:00-17:00\
 (Closed on weekends and public holidays)
+
    :::column-end:::
    :::column:::
 **Technical support hours:**
 
 **Office 365 Enterprise:**\
-Japanese: 24 hours a day, 7 days a week\
-English: 24 hours a day, 7 days a week
+Japanese: 24 hours a day, 7 days a week
 
 **Other Plans:**\
 Telephone technical support is available from 9:00-17:30 on weekdays.\
@@ -4034,13 +4032,13 @@ Alternative Phone Number: 02 3483 1937\
 Local call charges apply.
 
 **Billing support hours:**\
-Korean: Monday through Friday, 9 AM-6 PM\
-English: Monday through Friday, 9 AM-6 PM
+Korean: Monday through Friday, 9 AM-6 PM
+
    :::column-end:::
    :::column:::
 **Technical support hours:**\
-Korean: Monday through Friday, 9 AM-6 PM\
-English: 24 hours a day, 7 days a week
+Korean: Monday through Friday, 9 AM-6 PM
+
    :::column-end:::
 :::row-end:::
 
